@@ -1,6 +1,6 @@
 # BsxM1 theme for rEFInd
 
-[TODO] Take screenshot
+![screenshot](bsxm1_screenshot.png)
 
 ### Credits
 
@@ -14,4 +14,4 @@ Some icons and fonts from [Regular](https://github.com/1j01/refind-theme-regular
 
 Icons come in two sizes (128 and 256 px), OS selector in five colors. See options in theme.conf.
 
-Folder `icons-leftovers` contains some unused icons due to differences between OC and rEFInd. They can de safely deleted.
+Folder `icons-leftovers` contains some unused icons due to differences between OC and rEFInd. They can be safely deleted.
